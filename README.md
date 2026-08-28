@@ -7,4 +7,4 @@ A simple and interactive Sales Dashboard created in Microsoft Excel.
 This dashboard provides a clear view of sales performance through interactive charts, KPIs, and data analysis.
  ## Dashboard Preview
 
-![Sales Dashboard](./dashboard.png)
+ ![Sales Dashboard](./sales-dashboard.png)
